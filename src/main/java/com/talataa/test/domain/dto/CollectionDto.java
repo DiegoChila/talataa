@@ -1,6 +1,7 @@
 package com.talataa.test.domain.dto;
 
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class CollectionDto {

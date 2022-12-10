@@ -1,6 +1,6 @@
 package com.talataa.test.persistence.entities;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 import java.util.List;
 
